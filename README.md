@@ -1,7 +1,5 @@
 # 👩 Previniendo la violencia contra la Mujer, niñas y niños a nivel nacional del 2013-2018
 
-<br>
-
 ### 📂 Revisión de datasets públicos
 
 ODS | Nombre del dataset | Herramienta | Descripción del proyecto
@@ -22,7 +20,7 @@ En ese sentido nos hemos enfocado en comprender esta creciente problemática. In
 - Ciclo de violencia: se incrementa de acuerdo al poder y control que ejerza el sujeto acctivo sobre el sujeto pasivo. Comienza con violencia verbal, luego fisica y sexual. Un caso extremo al pasar estas fases es el feminicidio 
 
 ###### Fuentes
-- MIMP (2022). Marco conceptual para la prevencion de la violencia de genero contra las mujeres Plataforma del Estado Peruano.[url]( https://www.gob.pe/institucion/mimp/informes-publicaciones/2842546-el-marco-conceptual-para-la-prevencion-de-la-violencia-de-genero-contra-las-mujeres)
+- MIMP (2022). Marco conceptual para la prevencion de la violencia de genero contra las mujeres Plataforma del Estado Peruano.[Url]( https://www.gob.pe/institucion/mimp/informes-publicaciones/2842546-el-marco-conceptual-para-la-prevencion-de-la-violencia-de-genero-contra-las-mujeres)
 - Sria. Equidad de Género y Derechos Humanos SNTE. (2018, 10 septiembre). Ciclo de la violencia [YouTube](https://www.youtube.com/watch?v=pHGD4R4gHK4)
 
 ###### Resultado del análisis 
@@ -33,6 +31,7 @@ Frente al [Reporte de los efectos de la violencia familiar del 2013 - 2018 ](htt
 <li>📈 El número de casos de anemia aumentaron agresivamente del 2013 al 2014. Luego, se puede notar una caída del número de casos de anemia del 2019 al 2020. Sin embargo hay que tener en cuenta que durante dicho año se dió la pandemia del Covid-19 donde los establecimientos de salud priorizaron los casos de Covid-19 y la población permaneció en casa. 
 </li>
 </ol>
+<ol> 
 <li>
  📊 La provincia de Cusco presenta el mayor número de casos de anemia desde el 2014 al 2020 a comparación de las otras provincias. Siendo el 2014 el año donde registro el mayor número de casos de anemia de aproximadamente 7000 casos. 
 </li>
