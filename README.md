@@ -29,7 +29,9 @@ En ese sentido nos hemos enfocado en comprender esta creciente problemática. In
 Frente al [Reporte de los efectos de la violencia familiar del 2013 - 2018 ](https://lookerstudio.google.com/reporting/6db874ae-cf89-41d5-b82b-6e1d2ef2ec02) determinamos los siguientes hallazgos:
 
 <ol> 
-<li>📈 El número de casos de anemia aumentaron agresivamente del 2013 al 2014. Luego, se puede notar una caída del número de casos de anemia del 2019 al 2020. Sin embargo hay que tener en cuenta que durante dicho año se dió la pandemia del Covid-19 donde los establecimientos de salud priorizaron los casos de Covid-19 y la población permaneció en casa. 
+<li>👨‍👨‍👦‍👦 El número de casos de violencia psicológica lo ha sostenido Apurímac 
+ 
+ 📈 El número de casos de anemia aumentaron agresivamente del 2013 al 2014. Luego, se puede notar una caída del número de casos de anemia del 2019 al 2020. Sin embargo hay que tener en cuenta que durante dicho año se dió la pandemia del Covid-19 donde los establecimientos de salud priorizaron los casos de Covid-19 y la población permaneció en casa. 
 </li> 
 <li>
  📊 La provincia de Cusco presenta el mayor número de casos de anemia desde el 2014 al 2020 a comparación de las otras provincias. Siendo el 2014 el año donde registro el mayor número de casos de anemia de aproximadamente 7000 casos. 
