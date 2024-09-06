@@ -22,15 +22,26 @@ En ese sentido nos hemos enfocado en comprender esta creciente problemática. In
 --> Vilencia contra la mujer(VCM): consiste en cualquier acción o conducta que causa muerte, daño o sufrimiento físico, sexual, psicológico y económica a las mujeres por su condición, tanto en el ámbito público como en el privado 
 --> Ciclo de violencia: se incrementa de acuerdo al poder y control que ejerza el sujeto acctivo sobre el sujeto pasivo. Comienza con violencia verbal, luego fisica y sexual. Un caso extremo al pasar estas fases es el feminicidio 
 
-* Fuentes
-- MIMP (2022). Marco conceptual para la prevencion de la violencia de genero contra las mujeres Plataforma del Estado Peruano.[url] ( https://www.gob.pe/institucion/mimp/informes-publicaciones/2842546-el-marco-conceptual-para-la-prevencion-de-la-violencia-de-genero-contra-las-mujeres)
+###### Fuentes
+- MIMP (2022). Marco conceptual para la prevencion de la violencia de genero contra las mujeres Plataforma del Estado Peruano.[url]( https://www.gob.pe/institucion/mimp/informes-publicaciones/2842546-el-marco-conceptual-para-la-prevencion-de-la-violencia-de-genero-contra-las-mujeres)
 - Sria. Equidad de Género y Derechos Humanos SNTE. (2018, 10 septiembre). Ciclo de la violencia [YouTube](https://www.youtube.com/watch?v=pHGD4R4gHK4)
 
 ###### Resultado del análisis 
-Frente al [tablero de control](https://lookerstudio.google.com/reporting/6db874ae-cf89-41d5-b82b-6e1d2ef2ec02) determinamos los siguientes hallazgos:
+Frente al [Reporte de los efectos de la violencia familiar del 2013 - 2018 ](https://lookerstudio.google.com/reporting/6db874ae-cf89-41d5-b82b-6e1d2ef2ec02) determinamos los siguientes hallazgos:
 
-📈 1. El número de casos de anemia aumentaron agresivamente del 2013 al 2014. Luego, se puede notar una caída del número de casos de anemia del 2019 al 2020. Sin embargo hay que tener en cuenta que durante dicho año se dió la pandemia del Covid-19 donde los establecimientos de salud priorizaron los casos de Covid-19 y la población permaneció en casa.
+<ul> 
+<li>📈 1. El número de casos de anemia aumentaron agresivamente del 2013 al 2014. Luego, se puede notar una caída del número de casos de anemia del 2019 al 2020. Sin embargo hay que tener en cuenta que durante dicho año se dió la pandemia del Covid-19 donde los establecimientos de salud priorizaron los casos de Covid-19 y la población permaneció en casa. 
+</li>
 📊 2. La provincia de Cusco presenta el mayor número de casos de anemia desde el 2014 al 2020 a comparación de las otras provincias. Siendo el 2014 el año donde registro el mayor número de casos de anemia de aproximadamente 7000 casos.
+<li>
+  
+</li>
+  
+</ul>
+
+
+
+
 🏥 3.  La mayoría de casos de anemia se concentra en la red asistencial de Cusco Norte donde se presentó el mayor números de casos de 8734 en 2017. 
 👶 4. Los grupos etarios más afectados por la anemia son los niños y adolescentes. Los número de casos superan de manera considerable a los registrados por los jóvenes y adultos. Esa tendencia se puede ver durante los 10 años. No se encontró casos de anemia registrados para adultos mayores de 60 años.
 📉 5.  Del 2010 al 2015, 30 de 100 personas presentaron anemia, donde las provincias que tenían más casos de anemia son Cusco y La Convención.
