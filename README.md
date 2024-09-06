@@ -14,6 +14,7 @@ En ese sentido nos hemos enfocado en comprender esta creciente problemática. In
 
 ###### Formulación del problema
 - ¿Cuál es el departamento con más casos de violencia sobre la población vulnerable, cuál es la tendencia y el grupo etario más afectado durante el período 2013 al 2018?
+- Grupo de estudio: mujeres del Perú de 15 a 45 años, en toda su diversidad( mujeres indígenas, mujeres afrodescendientes, mujeres en situación de discapacidad, mujeres lesbianas, trans, migrantes, así como todas aquellas en situación de especial vulnerabilidad) y sus menores hijos
 
 ###### Teoría
 - Vilencia contra la mujer(VCM): consiste en cualquier acción o conducta que causa muerte, daño o sufrimiento físico, sexual, psicológico y económica a las mujeres por su condición, tanto en el ámbito público como en el privado 
@@ -29,29 +30,27 @@ En ese sentido nos hemos enfocado en comprender esta creciente problemática. In
 Frente al [Reporte de los efectos de la violencia familiar del 2013 - 2018 ](https://lookerstudio.google.com/reporting/6db874ae-cf89-41d5-b82b-6e1d2ef2ec02) determinamos los siguientes hallazgos:
 
 <ol> 
-<li>👨‍👨‍👦‍👦 El número de casos de violencia psicológica lo ha sostenido Apurímac 
- 
- 📈 El número de casos de anemia aumentaron agresivamente del 2013 al 2014. Luego, se puede notar una caída del número de casos de anemia del 2019 al 2020. Sin embargo hay que tener en cuenta que durante dicho año se dió la pandemia del Covid-19 donde los establecimientos de salud priorizaron los casos de Covid-19 y la población permaneció en casa. 
+<li>
+ 👨‍👨‍👦‍👦 En la parte inicial del ciclo de violencia, Apurímac es el departamento que ha sostenido la violencia psicológica sobre la media durante 3 años consecutivos(2013-2015). Luego tiene una ligera caída con un rebote en ascenso marcando una tendencia en ascenso. La posible causa a esta resistencia sobre la media es al factor cultural de subordinación institucionalizada(creencias, costumbres y perjuicios)
 </li> 
 <li>
- 📊 La provincia de Cusco presenta el mayor número de casos de anemia desde el 2014 al 2020 a comparación de las otras provincias. Siendo el 2014 el año donde registro el mayor número de casos de anemia de aproximadamente 7000 casos. 
+ 🏥 Apurímac presenta el mayor número de casos de anemia de violencia fisica 4 años(2014-2017) siendo el 2015 el más extremo
 </li>
  <li>
- 🏥 3.  La mayoría de casos de anemia se concentra en la red asistencial de Cusco Norte donde se presentó el mayor números de casos de 8734 en 2017. 
+ 🤰 En cuanto a la violencia sexual Apurímac es el que más persistencia tiene sobre la media (variación de ± 5pp) 
  </li>
 <li>
- 👶 4. Los grupos etarios más afectados por la anemia son los niños y adolescentes. Los número de casos superan de manera considerable a los registrados por los jóvenes y adultos. Esa tendencia se puede ver durante los 10 años. No se encontró casos de anemia registrados para adultos mayores de 60 años.
+ Este progresismo de la violencia en Apurímac se apoya en la insatisfaccion institucional. Mas del 50% de las mujeres violentadas recurrian a solicitar ayuda "personas cercanas"(personas no especilizada como padres, vecinos, amigos,hermanos, etc) durante los años 2013, 2014 y 2015 se avalo ello. Al respecto se puede ver que existen una tendencia en ascenso durante esos años dentro de la evolución psicologica, fisica y sexual. En el año 2016 hay un quiebre en esa tendencia pero con un efecto rebote para los años 2017 y 2018. A pesar que existió un fortalecimiento institucional con programas del MIDIS, la principal tendencia en ascenso es la violencia psicológica
 </li>
 <li>
-📉 5.  Del 2010 al 2015, 30 de 100 personas presentaron anemia, donde las provincias que tenían más casos de anemia son Cusco y La Convención.
+👦 Con el fortalecimiento de las instituciones se ve un ligero control de la violencia contra la mujer pero muy por lo contrario para los menores de edad. En la encuesta del ENDES señala que los menores de edad presenciaron actos de violencia física y sexual del padre hacia la madre. Cabe resaltar que para llegar a esos grados de violencia no solamente se efectuaron durante los años señalados por dicha encuesta si no que se vienn arrastarndo de años anteriores(en un intervalo no mas de 10 años antecesores)
 </li>
 <li>
- 👦 6.  Del 2010 al 2015, los niños es el grupo etario que presentó mayor casos de anemia. 
+👨‍✈️ La falta de confianza institucional es menor del 50%. En efecto, se percibe a las mujeres entre 15 a 19 años en la región de Apurímac como las mas vulnerables pues no asisten a denunciar la violencia 
 </li>
 <li>
- 👦 7.  Del 2016 al 2020, los niños es el grupo etario que presentó mayor casos de anemia.
+👩 El 44,8% de las mujeres de 15-19 años señala que no es necesari(evidenciandose su falta de confianza institucional), el 16,2% señala que ella tenia la culpa y un 11,4% señala queno lo hace para no causarle un problemas a su agresor(en estos dos items se evidencia el poder y control que tiene el agresor sobre estas feminas). Sumado a ello se agrava por la falta de infromación institucional por lo que un 7,5% señala que no sabe donde ir/ no conoce los servicios para las mujeres violentadas.
 </li>
-
 </ol>
 
 <br>
