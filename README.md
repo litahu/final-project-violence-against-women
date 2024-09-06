@@ -9,7 +9,6 @@ ODS | Nombre del dataset | Herramienta | Descripción del proyecto
 Salud| ⚠️Violencia contra las mujeres, niños y niñas (capítulo XII de ENDES- “ Encuesta demográfica y de salud familiar” ) [2013](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-7), [2014](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-5), [2015](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-3), [2016](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-0), [2017](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud) y [2018](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-9)| Google sheet y Looker Studio | Se procedió con la limpieza de datos en Google Sheet(siguiendo las buenas prácticas de ETL). Luego se canalizó los datos para manejar dentro del tablero de control de Looker Studio. 
 
 <br>
-<br>
 
 ### 📊 Análisis de la información
 Ante la falta de un plan estrátegico a nivel nacional para prevenir la violencia contra la mujer,niños y niñas(de aquí en adelante población vulnerable) se estan llevando a cabo "programas reactivos" que alivian el problema en el corto plazo. Sin embargo, ante la creciente ola de violencia familiar es vital abordar este tema para construir puentes preventivos de largo plazo.
@@ -31,13 +30,12 @@ Frente al [Reporte de los efectos de la violencia familiar del 2013 - 2018 ](htt
 
 
 <ol> 
-<li>📈 1. El número de casos de anemia aumentaron agresivamente del 2013 al 2014. Luego, se puede notar una caída del número de casos de anemia del 2019 al 2020. Sin embargo hay que tener en cuenta que durante dicho año se dió la pandemia del Covid-19 donde los establecimientos de salud priorizaron los casos de Covid-19 y la población permaneció en casa. 
+<li>📈 El número de casos de anemia aumentaron agresivamente del 2013 al 2014. Luego, se puede notar una caída del número de casos de anemia del 2019 al 2020. Sin embargo hay que tener en cuenta que durante dicho año se dió la pandemia del Covid-19 donde los establecimientos de salud priorizaron los casos de Covid-19 y la población permaneció en casa. 
 </li>
-📊 2. La provincia de Cusco presenta el mayor número de casos de anemia desde el 2014 al 2020 a comparación de las otras provincias. Siendo el 2014 el año donde registro el mayor número de casos de anemia de aproximadamente 7000 casos.
+</ol>
 <li>
-  
+ 📊 La provincia de Cusco presenta el mayor número de casos de anemia desde el 2014 al 2020 a comparación de las otras provincias. Siendo el 2014 el año donde registro el mayor número de casos de anemia de aproximadamente 7000 casos. 
 </li>
-  
 </ol>
 
 
@@ -52,5 +50,6 @@ Frente al [Reporte de los efectos de la violencia familiar del 2013 - 2018 ](htt
 
 
 
+<br>
 
 ### 🚩 Identificación del hallazgo
