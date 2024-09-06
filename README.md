@@ -34,19 +34,19 @@ Frente al [Reporte de los efectos de la violencia familiar del 2013 - 2018 ](htt
  👨‍👨‍👦‍👦 En la parte inicial del ciclo de violencia, Apurímac es el departamento que ha sostenido la violencia psicológica sobre la media durante 3 años consecutivos(2013-2015). Luego tiene una ligera caída con un rebote marcando una tendencia en ascenso. La posible causa a esta resistencia sobre la media es el factor cultural de subordinación institucionalizada(creencias, costumbres y perjuicios)
 </li> 
 <li>
- 🏥 Apurímac presenta 4 años(2014-2017) persistentes de violencia física siendo el 2015 el más extremo
+ 💪 Apurímac presenta 4 años(2014-2017) persistentes de violencia física siendo el 2015 el más extremo
 </li>
  <li>
  🤰 En cuanto a la violencia sexual Apurímac es el que más persistencia tiene sobre la media (variación de ± 5pp) 
  </li>
 <li>
- Este progresismo de la violencia en Apurímac se apoya en la insatisfacción institucional. Más del 50% de las mujeres violentadas durante los años 2013, 2014 y 2015 recurrían a solicitar ayuda a "personas cercanas"(personas no especilizada como: padres, vecinos, amigos,hermanos, etc). Al respecto se puede ver que existe una tendencia en ascenso dentro de la evolución psicológica, física y sexual durante esos mismos años. En el año 2016 hay un quiebre en esa tendencia pero con un efecto rebote para los años 2017 y 2018. A pesar que existió un fortalecimiento institucional con programas del MIDIS, la principal tendencia en ascenso es la violencia psicológica
+🌎 Este progresismo de la violencia en Apurímac se apoya en la insatisfacción institucional. Más del 50% de las mujeres violentadas durante los años 2013, 2014 y 2015 recurrían a solicitar ayuda a "personas cercanas"(personas no especilizada como: padres, vecinos, amigos,hermanos, etc). Al respecto se puede ver que existe una tendencia en ascenso dentro de la evolución psicológica, física y sexual durante esos mismos años. En el año 2016 hay un quiebre en esa tendencia pero con un efecto rebote para los años 2017 y 2018. A pesar que existió un fortalecimiento institucional con programas del MIDIS, la principal tendencia en ascenso es la violencia psicológica
 </li>
 <li>
-👦 Con el fortalecimiento de las instituciones se ve un ligero control de la violencia contra la mujer pero muy por lo contrario para los menores de edad. En la encuesta del ENDES señala que los menores de edad presenciaron actos de violencia física y sexual del padre hacía la madre. Cabe resaltar que para llegar a esos grados de violencia no solamente se efectuaron durante los años señalados por dicha encuesta si no que se vienn arrastarndo de años antecesores(en un intervalo no mas de 10 años)
+👨‍✈️ Con el fortalecimiento de las instituciones se ve un ligero control de la violencia contra la mujer pero muy por lo contrario para los menores de edad. En la encuesta del ENDES señala que los menores de edad presenciaron actos de violencia física y sexual del padre hacía la madre. Cabe resaltar que para llegar a esos grados de violencia no solamente se efectuaron durante los años señalados por dicha encuesta si no que se vienn arrastarndo de años antecesores(en un intervalo no mas de 10 años)
 </li>
 <li>
-👨‍✈️ La confianza institucional peribida por las mujeres es menor del 50%. En efecto, existen mujeres que no asisten a denunciar la violencia. Identificando asi al grupo etario mas vulnerado: "mujeres entre 15 a 19 años". Ello se respalda por las razones que argumentan las mujeres para no realizar dicha denuncia.
+🎗 La confianza institucional peribida por las mujeres es menor del 50%. En efecto, existen mujeres que no asisten a denunciar la violencia. Identificando asi al grupo etario mas vulnerado: "mujeres entre 15 a 19 años". Ello se respalda por las razones que argumentan las mujeres para no realizar dicha denuncia.
 </li>
 <li>
 👩 El 44,8% de las mujeres de 15-19 años señala que no es necesario hacer la denuncia, el 16,2% señala que ella tenía la culpa y un 11,4% señala que no lo hace para no causar problemas a su agresor(en estos items se evidencia el poder y control que tiene el agresor sobre estas feminas). Sumado a ello se agrava por la falta de información institucional por lo que un 7,5% señala que no sabe donde ir/ no conoce los servicios para las mujeres violentadas entreo otros.
