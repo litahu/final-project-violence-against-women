@@ -52,6 +52,105 @@ Frente al [Reporte de los efectos de la violencia familiar del 2013 - 2018 ](htt
 </li>
 </ol>
 
+En ese sentido, exponemos las limitaciones de la encuesta:
+- Todo a sido a nivel departamental, por lo que se nos ha dificultado hallar las provincias con mas afectación dentro de Apurímac. Se exploro la base de datos de SIDOPOL pero solo tenia registros de denuncias de las provincias de Abanacay y Andahuaylas(a diferencia de sus otras provincias)
+- Las instituciones toman distintas variables para registrar los datos. Ejm: SIDOPOL toma la "violencia fisica y verbal"
+
+
 <br>
 
 ### 🚩 Identificación del hallazgo
+La mayor indicencia recae en mujeres jóvenes de 15 - 19 años y menores de edad en el departamento de Apurímac. Dentro de la evolución de las tres fases de violencia Apurímac siempre interaba sobre la media. A partir de ello cada una de estas violencias necesitan una respuesta proactiva distinta. En ese sentido nuestra propuesta de valor se va a enfocar en la violencia psicológica. 
+
+La violencia contra las mujeres en Perú es un problema persistente con factores culturales que perpetúan el ciclo de violencia. Las soluciones actuales suelen centrarse en la intervención posterior al ataque, mientras que la prevención cultural y educativa es insuficiente. 
+
+**SeguraMente** busca llenar esta brecha ofreciendo una herramienta preventiva que actúa en las primeras etapas del ciclo de violencia, enfocándose en la educación y la formación de actitudes positivas desde una edad temprana.
+
+##### Propuesta de Valor:
+- SeguraMente utiliza un juego interactivo para abordar la violencia de género desde una perspectiva preventiva, algo innovador en Perú. A diferencia de los enfoques reactivos, este juego se centra en educar a los jóvenes sobre cómo identificar y reaccionar ante situaciones de violencia.
+- El juego educa a los jugadores sobre la violencia y las decisiones responsables, influenciando positivamente sus actitudes y comportamientos futuros. Este enfoque proactivo busca reducir la probabilidad de que los jugadores se conviertan en víctimas o perpetradores de violencia.
+- El diseño del juego incluye versiones adaptadas para diferentes edades y contextos, con opciones para zonas con acceso limitado a internet. SeguraMente se implementará en fases para abordar las limitaciones de conectividad y asegurar su eficacia en diversas regiones.
+- El proyecto se basa en tecnologías accesibles y en la colaboración con socios estratégicos. La inversión inicial cubre el desarrollo, pruebas e implementación del juego. Los costos están justificados por el impacto social y educativo, y se busca sostenibilidad a través de alianzas con entidades gubernamentales y ONGs.
+
+> Estadísticas Relevantes:
+●	Acceso a Tecnología: El 84% de la población peruana tiene acceso a teléfonos móviles, y el 59% a smartphones. En áreas urbanas, el 95% de los hogares tienen acceso a teléfonos móviles y el 75% a internet. En zonas rurales, el acceso a internet es del 30% (fuente: Instituto Nacional de Estadística e Informática - INEI, 2023).
+●	Cultura de Violencia: Según el Instituto Nacional de Estadística e Informática (INEI), el 67% de las mujeres en Perú han experimentado algún tipo de violencia física, psicológica o sexual en algún momento de su vida. Además, el 30% de los adolescentes en Perú reportan haber sido testigos de violencia en sus hogares (fuente: INEI, Encuesta Nacional de Hogares - ENAHO, 2022).
+
+##### Detalles del Juego: 
+
+**Mecánicas del Juego:** 
+- Roles y Escenarios: Los jugadores asumirán roles en escenarios representativos de situaciones de violencia. Cada escenario tiene múltiples opciones de decisión que afectan el desarrollo del juego.
+- Decisiones y Consecuencias: Las decisiones en el juego llevan a diferentes resultados, que fomentan la reflexión y el aprendizaje.
+- Recompensas y Motivación: Se incorporan sistemas de recompensas basados en la identificación de riesgos y la elección de respuestas adecuadas.
+  
+<br>
+
+**Impacto del Juego:**
+El juego utiliza principios de psicología educativa para cambiar actitudes y comportamientos. Ofrece un entorno seguro para practicar la toma de decisiones, influenciando positivamente las mentalidades desde una edad temprana.
+
+**Plan de Implementación:**
+<ol>
+<li>
+1.	Investigación y Planificación Inicial:
+○	Definición del Problema y Objetivos del Juego: Clarificar necesidades y objetivos educativos.
+○	Investigación de Usuarios: Encuestas y entrevistas para entender necesidades.
+○	Análisis de Competencia y Requisitos Legales: Estudiar soluciones similares y asegurar cumplimiento con normativas.
+</li>
+<li>
+2.	Diseño del Juego:
+○	Concepto y Diseño de Niveles: Crear escenarios educativos sobre violencia.
+○	Roles y Mecánicas del Juego: Establecer roles, mecánicas y niveles.
+○	Diseño de UI y Arte: Crear una interfaz intuitiva y atractiva.
+</li>
+<li>
+3.	Desarrollo del Juego:
+○	Prototipo y Desarrollo: Crear prototipo, desarrollar front-end y back-end.
+○	Integración de IA (Opcional): Personalizar experiencia del jugador.
+○	Testing: Realizar pruebas para asegurar funcionalidad y adecuación.
+</li>
+ <li>
+4.	Contenido Educativo y Narrativo:
+○	Creación de Escenarios y Tutoriales: Desarrollar material educativo.
+○	Revisión por Expertos: Validar contenido con psicólogos y educadores.
+</li>
+<li>
+5.	Marketing y Estrategia de Lanzamiento:
+○	Plan de Marketing y Alianzas Estratégicas: Definir estrategias y formar alianzas con entidades como el Ministerio de la Mujer, Ministerio de Educación, MIDIS y operadores de telefonía.
+○	Campañas de Lanzamiento y Gestión de la Comunidad: Promocionar el juego y gestionar la interacción con usuarios.
+</li>
+<li>
+6.	Evaluación y Expansión:
+○	Fase 1: Implementación en Zonas Urbanas y Periurbanas
+i.	Comenzar con áreas con mayor acceso a internet para asegurar la aceptación y funcionamiento del juego.
+○	Fase 2: Adaptación para Zonas Rurales
+i.	Implementar versiones del juego optimizadas para dispositivos básicos y con opciones offline, para llegar a zonas con acceso limitado a internet.
+ii.	Medición del Impacto y Recogida de Feedback: Evaluar efectividad y realizar mejoras.
+iii.	Estrategias de Escalabilidad y Soluciones Offline: Implementar estrategias de expansión y ofrecer soluciones para zonas con acceso limitado a internet.
+</li>
+</ol>
+
+<br>
+
+**Beneficios:** 
+- Prevención y Educación: Ofrece una herramienta educativa para prevenir la violencia desde una edad temprana.
+- Empoderamiento y Conciencia: Fomenta la empatía y la comprensión de las consecuencias de la violencia.
+- Complemento a Esfuerzos Actuales: Actúa como una herramienta complementaria a las políticas públicas y programas de apoyo existentes.
+- Innovación: SeguraMente introduce un enfoque novedoso al combinar educación y tecnología en un juego interactivo, abordando la violencia desde su raíz cultural y educativa, algo que no se ha hecho ampliamente en Perú.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
