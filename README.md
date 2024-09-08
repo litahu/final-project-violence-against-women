@@ -95,6 +95,7 @@ Investigación y Planificación Inicial:</li>
 
 ○	Investigación de Usuarios: Encuestas y entrevistas para entender necesidades.
 
+
 ○	Análisis de Competencia y Requisitos Legales: Estudiar soluciones similares y asegurar cumplimiento con normativas.
 
 <li>
@@ -102,6 +103,7 @@ Diseño del Juego:</li>
 ○	Concepto y Diseño de Niveles: Crear escenarios educativos sobre violencia.
 
 ○	Roles y Mecánicas del Juego: Establecer roles, mecánicas y niveles.
+
 
 ○	Diseño de UI y Arte: Crear una interfaz intuitiva y atractiva.
 
@@ -132,7 +134,9 @@ Evaluación y Expansión:</li>
 
 ○	Fase 2: Adaptación para Zonas Rurales
  i.	Implementar versiones del juego optimizadas para dispositivos básicos y con opciones offline, para llegar a zonas con acceso limitado a internet.
+
  ii.	Medición del Impacto y Recogida de Feedback: Evaluar efectividad y realizar mejoras.
+
  iii.	Estrategias de Escalabilidad y Soluciones Offline: Implementar estrategias de expansión y ofrecer soluciones para zonas con acceso limitado a internet.
 
 </ol>
