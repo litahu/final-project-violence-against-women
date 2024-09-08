@@ -35,7 +35,8 @@
 ###  **Antecedente**
 Ante la falta de un plan estrátegico a nivel nacional para prevenir la violencia contra la mujer,niños y niñas(de aquí en adelante población vulnerable) las acciones institucionales estan realizando solo acciones paliativas para la creciente ola de violencia familiar. Por ello, es vital abordar este tema para construir puentes preventivos de largo plazo.En ese sentido nos hemos enfocado en comprender esta creciente problemática. 
 Inicialmente se abordo un Analisis exploratorio de los datos que nos ayuden a identificar variables, tendencias y métricas para entender como incide la violencia contra la mujer en el Perú  
->
+´´´
+
 ###### Teoría
 - Violencia contra la mujer(VCM): consiste en cualquier acción o conducta que causa muerte, daño o sufrimiento físico, sexual, psicológico y económica a las mujeres por su condición, tanto en el ámbito público como en el privado 
 - Ciclo de violencia: se incrementa de acuerdo al poder y control que ejerza el sujeto acctivo sobre el sujeto pasivo. Comienza con violencia verbal, luego física y sexual. Asimismo, un caso extremo de pasar todas las fases es el feminicidio 
@@ -44,6 +45,7 @@ Inicialmente se abordo un Analisis exploratorio de los datos que nos ayuden a id
 - MIMP (2022). Marco conceptual para la prevención de la violencia de género contra las mujeres. Plataforma del Estado Peruano.[Url]( https://www.gob.pe/institucion/mimp/informes-publicaciones/2842546-el-marco-conceptual-para-la-prevencion-de-la-violencia-de-genero-contra-las-mujeres)
 - Sria. Equidad de Género y Derechos Humanos SNTE. (2018, 10 septiembre). Ciclo de la violencia [Url](https://www.youtube.com/watch?v=pHGD4R4gHK4) <
 
+´´´
 
 ###  **Problema**
 ¿Cuál es el departamento con más casos de violencia sobre la población vulnerable, cuál es la tendencia y el grupo etario más afectado entre el 2013 y 2018?
@@ -91,9 +93,9 @@ De acuerdo a los datos detallados en el [Reporte de los efectos de la violencia 
 ###  **Contexto y justificación**
 La violencia contra las mujeres en Perú es un problema persistente con factores culturales que perpetúan el ciclo de violencia. Las soluciones actuales suelen centrarse en la intervención posterior al ataque, mientras que la prevención cultural y educativa es insuficiente. SeguraMente busca llenar esta brecha ofreciendo una herramienta preventiva que actúa en las primeras etapas del ciclo de violencia, enfocándose en la educación y la formación de actitudes positivas desde una edad temprana.
 
-> Estadísticas Relevantes:
-●	Acceso a Tecnología: El 84% de la población peruana tiene acceso a teléfonos móviles, y el 59% a smartphones. En áreas urbanas, el 95% de los hogares tienen acceso a teléfonos móviles y el 75% a internet. En zonas rurales, el acceso a internet es del 30% (fuente: Instituto Nacional de Estadística e Informática - INEI, 2023).
-●	Cultura de Violencia: Según el Instituto Nacional de Estadística e Informática (INEI), el 67% de las mujeres en Perú han experimentado algún tipo de violencia física, psicológica o sexual en algún momento de su vida. Además, el 30% de los adolescentes en Perú reportan haber sido testigos de violencia en sus hogares (fuente: INEI, Encuesta Nacional de Hogares - ENAHO, 2022).
+> Estadísticas Relevantes:<br>
+- Acceso a Tecnología: El 84% de la población peruana tiene acceso a teléfonos móviles, y el 59% a smartphones. En áreas urbanas, el 95% de los hogares tienen acceso a teléfonos móviles y el 75% a internet. En zonas rurales, el acceso a internet es del 30% (fuente: Instituto Nacional de Estadística e Informática - INEI, 2023).<br>
+- Cultura de Violencia: Según el Instituto Nacional de Estadística e Informática (INEI), el 67% de las mujeres en Perú han experimentado algún tipo de violencia física, psicológica o sexual en algún momento de su vida. Además, el 30% de los adolescentes en Perú reportan haber sido testigos de violencia en sus hogares (fuente: INEI, Encuesta Nacional de Hogares - ENAHO, 2022).<br>
 
 ###  **Detalles de la propuesta**
 - SeguraMente utiliza un juego interactivo para abordar la violencia de género desde una perspectiva preventiva, algo innovador en Perú. A diferencia de los enfoques reactivos, este juego se centra en educar a los jóvenes sobre cómo identificar y reaccionar ante situaciones de violencia.
