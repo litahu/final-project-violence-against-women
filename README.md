@@ -81,13 +81,13 @@ La violencia contra las mujeres en Perú es un problema persistente con factores
 - El diseño del juego incluye versiones adaptadas para diferentes edades y contextos, con opciones para zonas con acceso limitado a internet. SeguraMente se implementará en fases para abordar las limitaciones de conectividad y asegurar su eficacia en diversas regiones.
 - El proyecto se basa en tecnologías accesibles y en la colaboración con socios estratégicos. La inversión inicial cubre el desarrollo, pruebas e implementación del juego. Los costos están justificados por el impacto social y educativo, y se busca sostenibilidad a través de alianzas con entidades gubernamentales y ONGs.
 
-**Mecánicas del Juego:**
-- Roles y Escenarios: Los jugadores asumirán roles en escenarios representativos de situaciones de violencia. Cada escenario tiene múltiples opciones de decisión que afectan el desarrollo del juego.
-- Decisiones y Consecuencias: Las decisiones en el juego llevan a diferentes resultados, que fomentan la reflexión y el aprendizaje.
-- Recompensas y Motivación: Se incorporan sistemas de recompensas basados en la identificación de riesgos y la elección de respuestas adecuadas.
-  
-**Impacto del Juego:**
-El juego utiliza principios de psicología educativa para cambiar actitudes y comportamientos. Ofrece un entorno seguro para practicar la toma de decisiones, influenciando positivamente las mentalidades desde una edad temprana.
+>**Mecánicas del Juego:**
+>- Roles y Escenarios: Los jugadores asumirán roles en escenarios representativos de situaciones de violencia. Cada escenario tiene múltiples opciones de decisión que afectan el desarrollo del juego.
+>- Decisiones y Consecuencias: Las decisiones en el juego llevan a diferentes resultados, que fomentan la reflexión y el aprendizaje.
+>- Recompensas y Motivación: Se incorporan sistemas de recompensas basados en la identificación de riesgos y la elección de respuestas adecuadas.
+>  
+>**Impacto del Juego:**
+>El juego utiliza principios de psicología educativa para cambiar actitudes y comportamientos. Ofrece un entorno seguro para practicar la toma de decisiones, influenciando positivamente las mentalidades desde una edad temprana.
 <br>
 <br>
 
@@ -127,7 +127,7 @@ Evaluación y Expansión:</li>
         i.	Comenzar con áreas con mayor acceso a internet para asegurar la aceptación y funcionamiento del juego.<br>
 
   ○	Fase 2: Adaptación para Zonas Rurales<br>
-        i.	Implementar versiones del juego optimizadas para dispositivos básicos y con opciones offline, para llegar a zonas con acceso limitado a internet.<br>
+        i.	Implementar versiones del juego optimizadas para dispositivos básicos y con opciones offline, para llegar a zonas con acceso limitado a internet.
         ii.	Medición del Impacto y Recogida de Feedback: Evaluar efectividad y realizar mejoras.<br>
         iii.	Estrategias de Escalabilidad y Soluciones Offline: Implementar estrategias de expansión y ofrecer soluciones para zonas con acceso limitado a internet.<br>
 <br>
