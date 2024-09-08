@@ -92,7 +92,9 @@ El juego utiliza principios de psicología educativa para cambiar actitudes y co
 <li>
 Investigación y Planificación Inicial:</li>
 ○	Definición del Problema y Objetivos del Juego: Clarificar necesidades y objetivos educativos.
+
 ○	Investigación de Usuarios: Encuestas y entrevistas para entender necesidades.
+
 ○	Análisis de Competencia y Requisitos Legales: Estudiar soluciones similares y asegurar cumplimiento con normativas.
 
 <li>
@@ -126,15 +128,11 @@ Marketing y Estrategia de Lanzamiento:</li>
 <li>
 Evaluación y Expansión:</li>
 ○	Fase 1: Implementación en Zonas Urbanas y Periurbanas
-
  i.	Comenzar con áreas con mayor acceso a internet para asegurar la aceptación y funcionamiento del juego.
 
 ○	Fase 2: Adaptación para Zonas Rurales
-
  i.	Implementar versiones del juego optimizadas para dispositivos básicos y con opciones offline, para llegar a zonas con acceso limitado a internet.
-
  ii.	Medición del Impacto y Recogida de Feedback: Evaluar efectividad y realizar mejoras.
-
  iii.	Estrategias de Escalabilidad y Soluciones Offline: Implementar estrategias de expansión y ofrecer soluciones para zonas con acceso limitado a internet.
 
 </ol>
