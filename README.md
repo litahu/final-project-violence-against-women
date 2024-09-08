@@ -116,7 +116,7 @@ Contenido Educativo y Narrativo:</li>
 Marketing y Estrategia de Lanzamiento:</li>
   ○	Plan de Marketing y Alianzas Estratégicas: Definir estrategias y formar alianzas con entidades como el Ministerio de la Mujer, Ministerio de Educación, MIDIS y operadores de telefonía.<br>
   ○	Campañas de Lanzamiento y Gestión de la Comunidad: Promocionar el juego y gestionar la interacción con usuarios.<br>
-
+<br>
 <li>
 Evaluación y Expansión:</li>
   ○	Fase 1: Implementación en Zonas Urbanas y Periurbanas<br>
@@ -126,7 +126,7 @@ Evaluación y Expansión:</li>
         i.	Implementar versiones del juego optimizadas para dispositivos básicos y con opciones offline, para llegar a zonas con acceso limitado a internet.<br>
         ii.	Medición del Impacto y Recogida de Feedback: Evaluar efectividad y realizar mejoras.<br>
         iii.	Estrategias de Escalabilidad y Soluciones Offline: Implementar estrategias de expansión y ofrecer soluciones para zonas con acceso limitado a internet.<br>
-
+<br>
 </ol>
 
 ###  **Retos y justificación tecnológica**
