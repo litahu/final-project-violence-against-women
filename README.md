@@ -134,7 +134,6 @@ Evaluación y Expansión:</li>
 <br>
 </ol>
 <br>
-<br>
 
 ###  **Retos y justificación tecnológica**
 Aunque el acceso a internet en zonas rurales es del 30%, el 75% de la población rural tiene acceso a teléfonos móviles y aproximadamente el 50% de los hogares en zonas rurales comparten teléfonos móviles, lo que facilita la adopción de nuestra aplicación guiada por el padre de familia en la mayoría de casos que favorece nuestro propósito de concientización en una edad temprana, sin embargo, esto será en una segunda fase de expasión.
@@ -154,7 +153,6 @@ SeguraMente está diseñado para ser escalable, con planes para adaptar el conte
 - Ministerio de Educación: Incluirá SeguraMente en el currículo educativo y ayudará en la capacitación de educadores para su uso en aulas y actividades extracurriculares.
 - MIDIS (Ministerio de Desarrollo e Inclusión Social): Apoyará en la implementación en zonas rurales y proporcionará recursos para asegurar que el juego llegue a comunidades de difícil acceso.
 - Operadores de Telefonía: Colaborarán en la difusión del juego, ofreciendo tarifas reducidas para el uso de datos y soporte técnico para garantizar el acceso en zonas con conectividad limitada.
-<br>
 <br>
 
 ###  **Beneficios a la comunidad**
