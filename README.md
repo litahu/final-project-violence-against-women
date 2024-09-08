@@ -90,14 +90,14 @@ El juego utiliza principios de psicología educativa para cambiar actitudes y co
 ###  **Plan de la implementación**
 <ol>
 <li>
-Investigación y Planificación Inicial:</li>
-  ○	Definición del Problema y Objetivos del Juego: Clarificar necesidades y objetivos educativos.
-  ○	Investigación de Usuarios: Encuestas y entrevistas para entender necesidades.
-  ○	Análisis de Competencia y Requisitos Legales: Estudiar soluciones similares y asegurar cumplimiento con normativas.
+Investigación y Planificación Inicial:</li><br>
+  ○	Definición del Problema y Objetivos del Juego: Clarificar necesidades y objetivos educativos.<br>
+  ○	Investigación de Usuarios: Encuestas y entrevistas para entender necesidades.<br>
+  ○	Análisis de Competencia y Requisitos Legales: Estudiar soluciones similares y asegurar cumplimiento con normativas.<br>
 
 <li>
 Diseño del Juego:</li>
-  ○	Concepto y Diseño de Niveles: Crear escenarios educativos sobre violencia.
+  ○	Concepto y Diseño de Niveles: Crear escenarios educativos sobre violencia.<br>
   ○	Roles y Mecánicas del Juego: Establecer roles, mecánicas y niveles.
   ○	Diseño de UI y Arte: Crear una interfaz intuitiva y atractiva.
 
