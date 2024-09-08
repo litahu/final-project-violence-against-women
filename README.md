@@ -8,8 +8,25 @@
 <br>
 
 **Tabla de Contenido**
-`[[_TOC_]]`
- 
+  - [📂 **Fase 1: Formulación del problema**](#📂-Fase-1-Formulación-del-problema)
+    - [**Antecedente**](#Antecedente)
+    - [**Problema**](#Problema)
+    - [**Objetivo**](#Objetivo)
+  - [📂 **Fase 2: Análisis de datos**](#📂-Fase-2-Análisis-de-datos)
+    - [🌎 **Creciente tendencia de violencia a nivel nacional**](#🌎-Creciente-tendencia-de-violencia-a-nivel-nacional)
+    - [🎗 **Tipo de solicitud de ayuda**](#🎗-Tipo-de-solicitud-de-ayuda)
+    - [👨‍✈️ **Consecuencias de la confianza institucional**](#👨‍✈️-Consecuencias-de-la-confianza-institucional)
+    - [👧 **Situación de los menores de edad**](#👧-Situación-de-los-menores-de-edad)
+  - [📂 **Fase 3: Propuesta de valor**](#📂-Fase-3-Propuesta-de-valor)
+    - [**Contexto y justificación**](#Contexto-y-justificación)
+    - [**Detalles de la propuesta**](#Detalles-de-la-propuesta)
+    - [**Plan de la implementación**](#Plan-de-la-implementación)
+    - [**Retos y justificación tecnológica**](#Retos-y-justificación-tecnológica)
+    - [**Escalabilidad**](#Escalabilidad)
+    - [**Viabilidad económica**](#Viabilidad-económica)
+    - [**Beneficios a la comunidad**](#Beneficios-a-la-comunidad)
+  - [📂 **Fase 4: Resumen y conclusiones**](#📂-Fase-4-Resumen-y-conclusiones)
+
 
 <br>
 <br>
