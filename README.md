@@ -2,7 +2,7 @@
 <br>
 
 **Herramienta** : Google Sheet <br>
-**Visualizacion** : Looker Studio <br>
+**Visualización** : Looker Studio <br>
 **Dataset** : INEI - ⚠️Violencia contra las mujeres, niños y niñas (capítulo XII de ENDES- “ Encuesta demográfica y de salud familiar” ) [2013](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-7), [2014](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-5), [2015](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-3), [2016](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-0), [2017](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud) y [2018](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-9)
 <br>
 <br>
@@ -33,15 +33,18 @@
 
 ## 📂 **Fase 1: Formulación del problema**
 ###  **Antecedente**
-Ante la falta de un plan estrátegico a nivel nacional para prevenir la violencia contra la mujer,niños y niñas(de aquí en adelante población vulnerable) las acciones institucionales estan realizando solo acciones paliativas para la creciente ola de violencia familiar. Por ello, es vital abordar este tema para construir puentes preventivos de largo plazo.En ese sentido nos hemos enfocado en comprender esta creciente problemática. 
-Inicialmente se abordo un Analisis exploratorio de los datos que nos ayuden a identificar variables, tendencias y métricas para entender como incide la violencia contra la mujer en el Perú  
+La falta de un plan estrátegico nacional para prevenir la violencia contra la mujer,niños y niñas ha provocado una ola creciente de violencia familiar, sobrellevando a la mujer violentada a transmitir altos resultados negativos para sus hijos y su entorno,es decir, un alto costo para el desarrollo sostenible del país. Por ello, es vital abordar este tema para construir puentes preventivos de largo plazo. En ese sentido nos hemos enfocado en comprender esta creciente problemática. 
+Inicialmente se abordo un Análisis exploratorio de los datos que nos ayuden a identificar variables, tendencias y métricas para entender como incide la violencia contra la mujer en el Perú.
 
 >###  **Grupo de estudio:**
->Mujeres del Perú de 15 a 45 años, en toda su diversidad( mujeres indígenas, mujeres afrodescendientes, mujeres en situación de discapacidad, mujeres lesbianas, trans, migrantes, así como todas aquellas en situación de especial vulnerabilidad) y sus menores hijos
+>Mujeres del Perú de 15 a 45 años, en toda su diversidad(mujeres indígenas, mujeres afrodescendientes, mujeres en situación de discapacidad, mujeres lesbianas, trans, migrantes, así como todas aquellas en situación de especial vulnerabilidad) y sus menores hijos.
 >###  **Problema**
 >¿Cuál es el departamento con más casos de violencia sobre la población vulnerable, cuál es la tendencia y el grupo etario más afectado entre el 2013 y 2018?
 >###  **Objetivo**
->yt
+>- Identificar el departartamento con mas incidencia de violencia y detallar su tendencia dentro del ciclo de violencia
+>- Comprender la cauda principal del ascenso de la vilencia
+>- Identificar el grupo etario más vulnerado
+>- Analizar la situacion de los menores de edad
 <br>
 <br>
 
@@ -154,6 +157,9 @@ SeguraMente está diseñado para ser escalable, con planes para adaptar el conte
 <br>
 
 ## 📂 **Fase 4: Resumen y conclusiones**
+- Los programas de respuesta para ayudar a poblacion vulnerable a salir de esa situacion se debe enfocar en las etapas iniciales del ciclo de violencia es decir las alarmas se deben programar desde la violencia psicológica y no en sus etapas mas tardías. De ese modo, las mujeres vulneradas pueden evitar experiencias de violencia "física y sexual". En el cual va a requerir un programa con alto costos economicos para resarcir dicah situacion, llevando a largo plazo la insostenibilidad de la ayuda por un ascenso incontrolable de victimas en el país. Busquemos programas proactivos y no reactivos
+
+
 SeguraMente se presenta como una solución innovadora y educativa para prevenir la violencia. Su enfoque proactivo y adaptable, junto con la colaboración con socios estratégicos y la integración de tecnología accesible, la convierte en una herramienta eficaz para romper el ciclo de violencia y fomentar una cultura de respeto y empatía.
 **SeguraMente** busca llenar esta brecha ofreciendo una herramienta preventiva que actúa en las primeras etapas del ciclo de violencia, enfocándose en la educación y la formación de actitudes positivas desde una edad temprana.
 
