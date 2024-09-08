@@ -88,8 +88,6 @@ La violencia contra las mujeres en Perú es un problema persistente con factores
 >  
 >**Impacto del Juego:**
 >El juego utiliza principios de psicología educativa para cambiar actitudes y comportamientos. Ofrece un entorno seguro para practicar la toma de decisiones, influenciando positivamente las mentalidades desde una edad temprana.
-<br>
-<br>
 
 ###  **Plan de la implementación**
 <ol>
@@ -130,7 +128,6 @@ Evaluación y Expansión:</li>
         i.	Implementar versiones del juego optimizadas para dispositivos básicos y con opciones offline, para llegar a zonas con acceso limitado a internet.<br>
         ii.	Medición del Impacto y Recogida de Feedback: Evaluar efectividad y realizar mejoras.<br>
         iii.	Estrategias de Escalabilidad y Soluciones Offline: Implementar estrategias de expansión y ofrecer soluciones para zonas con acceso limitado a internet.<br>
-<br>
 </ol>
 
 ###  **Retos y justificación tecnológica**
