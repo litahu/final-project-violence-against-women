@@ -33,24 +33,24 @@
 
 
 ## 📂 **Fase 1: Formulación del problema**
-    ###  **Antecedente**
-    ###  **Problema**
-    ###  **Objetivo**
+###  **Antecedente**
+###  **Problema**
+###  **Objetivo**
 
 ## 📂 **Fase 2: Análisis de datos**
-    ### 🌎 **Creciente tendencia de violencia a nivel nacional**
-    ### 🎗 **Tipo de solicitud de ayuda**
-    ### 👨‍✈️ **Consecuencias de la confianza institucional**
-    ### 👧 **Situación de los menores de edad**
+### 🌎 **Creciente tendencia de violencia a nivel nacional**
+### 🎗 **Tipo de solicitud de ayuda**
+### 👨‍✈️ **Consecuencias de la confianza institucional**
+### 👧 **Situación de los menores de edad**
 
 ## 📂 **Fase 3: Propuesta de valor**
-    ###  **Contexto y justificación**
-    ###  **Detalles de la propuesta**
-    ###  **Plan de la implementación**
-    ###  **Retos y justificación tecnológica**
-    ###  **Escalabilidad**
-    ###  **Viabilidad económica**
-    ###  **Beneficios a la comunidad**
+###  **Contexto y justificación**
+###  **Detalles de la propuesta**
+###  **Plan de la implementación**
+###  **Retos y justificación tecnológica**
+###  **Escalabilidad**
+###  **Viabilidad económica**
+###  **Beneficios a la comunidad**
 
 ## 📂 **Fase 4: Resumen y conclusiones**
 
