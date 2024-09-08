@@ -90,17 +90,17 @@ El juego utiliza principios de psicología educativa para cambiar actitudes y co
 ###  **Plan de la implementación**
 <ol>
 <li>
-Investigación y Planificación Inicial:
+Investigación y Planificación Inicial:</li>
 >○	Definición del Problema y Objetivos del Juego: Clarificar necesidades y objetivos educativos.
 >○	Investigación de Usuarios: Encuestas y entrevistas para entender necesidades.
 >○	Análisis de Competencia y Requisitos Legales: Estudiar soluciones similares y asegurar cumplimiento con normativas.
-</li>
+
 <li>
-Diseño del Juego:
+Diseño del Juego:</li>
 >○	Concepto y Diseño de Niveles: Crear escenarios educativos sobre violencia.
 >○	Roles y Mecánicas del Juego: Establecer roles, mecánicas y niveles.
 >○	Diseño de UI y Arte: Crear una interfaz intuitiva y atractiva.
-</li>
+
 <li>
 Desarrollo del Juego:
 >○	Prototipo y Desarrollo: Crear prototipo, desarrollar front-end y back-end.
@@ -154,8 +154,7 @@ SeguraMente está diseñado para ser escalable, con planes para adaptar el conte
 SeguraMente se presenta como una solución innovadora y educativa para prevenir la violencia. Su enfoque proactivo y adaptable, junto con la colaboración con socios estratégicos y la integración de tecnología accesible, la convierte en una herramienta eficaz para romper el ciclo de violencia y fomentar una cultura de respeto y empatía.
 **SeguraMente** busca llenar esta brecha ofreciendo una herramienta preventiva que actúa en las primeras etapas del ciclo de violencia, enfocándose en la educación y la formación de actitudes positivas desde una edad temprana.
 
-
-###### Resultado del análisis 
+**Resultado del análisis**
 En ese sentido, exponemos las limitaciones de la encuesta:
 - Todo a sido a nivel departamental, por lo que se nos ha dificultado hallar las provincias con mas afectación dentro de Apurímac. Se exploro la base de datos de SIDOPOL pero solo tenia registros de denuncias de las provincias de Abanacay y Andahuaylas(a diferencia de sus otras provincias)
 - Las instituciones toman distintas variables para registrar los datos. Ejm: SIDOPOL toma la "violencia fisica y verbal"
