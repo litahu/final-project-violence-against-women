@@ -39,10 +39,10 @@
 ###  **Objetivo**
 
 ## 📂 **Fase 2: Análisis de datos**
-### 🌎 **Creciente tendencia de violencia a nivel nacional**
-### 🎗 **Tipo de solicitud de ayuda**
-###**Consecuencias de la confianza institucional**
-### 👧 **Situación de los menores de edad**
+###  **Creciente tendencia de violencia a nivel nacional**
+### **Tipo de solicitud de ayuda**
+### **Consecuencias de la confianza institucional**
+### **Situación de los menores de edad**
 
 ## 📂 **Fase 3: Propuesta de valor**
 ###  **Contexto y justificación**
