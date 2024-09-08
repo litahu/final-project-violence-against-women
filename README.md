@@ -42,7 +42,8 @@ Inicialmente se abordo un Analisis exploratorio de los datos que nos ayuden a id
 >¿Cuál es el departamento con más casos de violencia sobre la población vulnerable, cuál es la tendencia y el grupo etario más afectado entre el 2013 y 2018?
 >###  **Objetivo**
 >yt
-
+<br>
+<br>
 
 ## 📂 **Fase 2: Análisis de datos**
 De acuerdo a los datos detallados en el [Reporte de los efectos de la violencia familiar del 2013 - 2018 ](https://lookerstudio.google.com/reporting/6db874ae-cf89-41d5-b82b-6e1d2ef2ec02) determinamos los siguientes hallazgos:
@@ -63,7 +64,8 @@ Con el fortalecimiento de las instituciones se ve un ligero control de la violen
 ###  **Situación de los menores de edad**
 👩 El 44,8% de las mujeres de 15-19 años señala que no es necesario hacer la denuncia, el 16,2% señala que ella tenía la culpa y un 11,4% señala que no lo hace para no causar problemas a su agresor(en estos items se evidencia el poder y control que tiene el agresor sobre estas feminas). Sumado a ello se agrava por la falta de información institucional por lo que un 7,5% señala que no sabe donde ir/ no conoce los servicios para las mujeres violentadas entreo otros.
 
-
+<br>
+<br>
 
 ## 📂 **Fase 3: Propuesta de valor**
 ###  **Contexto y justificación**
@@ -72,7 +74,8 @@ La violencia contra las mujeres en Perú es un problema persistente con factores
 > Estadísticas Relevantes:<br>
 >- Acceso a Tecnología: El 84% de la población peruana tiene acceso a teléfonos móviles, y el 59% a smartphones. En áreas urbanas, el 95% de los hogares tienen acceso a teléfonos móviles y el 75% a internet. En zonas rurales, el acceso a internet es del 30% (fuente: Instituto Nacional de Estadística e Informática - INEI, 2023).<br>
 >- Cultura de Violencia: Según el Instituto Nacional de Estadística e Informática (INEI), el 67% de las mujeres en Perú han experimentado algún tipo de violencia física, psicológica o sexual en algún momento de su vida. Además, el 30% de los adolescentes en Perú reportan haber sido testigos de violencia en sus hogares (fuente: INEI, Encuesta Nacional de Hogares - ENAHO, 2022).<br>
-
+<br>
+<br>
 ###  **Detalles de la propuesta**
 - SeguraMente utiliza un juego interactivo para abordar la violencia de género desde una perspectiva preventiva, algo innovador en Perú. A diferencia de los enfoques reactivos, este juego se centra en educar a los jóvenes sobre cómo identificar y reaccionar ante situaciones de violencia.
 - El juego educa a los jugadores sobre la violencia y las decisiones responsables, influenciando positivamente sus actitudes y comportamientos futuros. Este enfoque proactivo busca reducir la probabilidad de que los jugadores se conviertan en víctimas o perpetradores de violencia.
@@ -86,6 +89,8 @@ La violencia contra las mujeres en Perú es un problema persistente con factores
   
 **Impacto del Juego:**
 El juego utiliza principios de psicología educativa para cambiar actitudes y comportamientos. Ofrece un entorno seguro para practicar la toma de decisiones, influenciando positivamente las mentalidades desde una edad temprana.
+<br>
+<br>
 
 ###  **Plan de la implementación**
 <ol>
@@ -128,15 +133,20 @@ Evaluación y Expansión:</li>
         iii.	Estrategias de Escalabilidad y Soluciones Offline: Implementar estrategias de expansión y ofrecer soluciones para zonas con acceso limitado a internet.<br>
 <br>
 </ol>
+<br>
+<br>
 
 ###  **Retos y justificación tecnológica**
 Aunque el acceso a internet en zonas rurales es del 30%, el 75% de la población rural tiene acceso a teléfonos móviles y aproximadamente el 50% de los hogares en zonas rurales comparten teléfonos móviles, lo que facilita la adopción de nuestra aplicación guiada por el padre de familia en la mayoría de casos que favorece nuestro propósito de concientización en una edad temprana, sin embargo, esto será en una segunda fase de expasión.
 SeguraMente abordará el desafío mediante una implementación escalonada: comenzaremos en áreas urbanas y periurbanas con mejor conectividad y, posteriormente, adaptaremos el juego para zonas rurales con versiones optimizadas para dispositivos básicos, ligeros en datos y opciones offline. 
 Aceptamos que no podemos abarcar todos los lugares de inmediato y no esperamos que todas las personas tengan acceso a internet o teléfonos celulares para comenzar el cambio. Nuestra estrategia es comenzar en regiones con mayor conectividad y expandir gradualmente el alcance del juego a medida que mejoramos la accesibilidad en zonas con conectividad limitada.
+<br>
+<br>
 
 ###  **Escalabilidad**
 SeguraMente está diseñado para ser escalable, con planes para adaptar el contenido a diferentes regiones y contextos, y ofrecer versiones para diversas edades y niveles de dificultad.
-
+<br>
+<br>
 ###  **Viabilidad económica**
 
 **Papel de los Socios Estratégicos:**
@@ -144,12 +154,16 @@ SeguraMente está diseñado para ser escalable, con planes para adaptar el conte
 - Ministerio de Educación: Incluirá SeguraMente en el currículo educativo y ayudará en la capacitación de educadores para su uso en aulas y actividades extracurriculares.
 - MIDIS (Ministerio de Desarrollo e Inclusión Social): Apoyará en la implementación en zonas rurales y proporcionará recursos para asegurar que el juego llegue a comunidades de difícil acceso.
 - Operadores de Telefonía: Colaborarán en la difusión del juego, ofreciendo tarifas reducidas para el uso de datos y soporte técnico para garantizar el acceso en zonas con conectividad limitada.
+<br>
+<br>
 
 ###  **Beneficios a la comunidad**
 - Prevención y Educación: Ofrece una herramienta educativa para prevenir la violencia desde una edad temprana.
 - Empoderamiento y Conciencia: Fomenta la empatía y la comprensión de las consecuencias de la violencia.
 - Complemento a Esfuerzos Actuales: Actúa como una herramienta complementaria a las políticas públicas y programas de apoyo existentes.
 - Innovación: SeguraMente introduce un enfoque novedoso al combinar educación y tecnología en un juego interactivo, abordando la violencia desde su raíz cultural y educativa, algo que no se ha hecho ampliamente en Perú.
+<br>
+<br>
 
 ## 📂 **Fase 4: Resumen y conclusiones**
 SeguraMente se presenta como una solución innovadora y educativa para prevenir la violencia. Su enfoque proactivo y adaptable, junto con la colaboración con socios estratégicos y la integración de tecnología accesible, la convierte en una herramienta eficaz para romper el ciclo de violencia y fomentar una cultura de respeto y empatía.
