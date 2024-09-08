@@ -25,7 +25,7 @@
     - [Escalabilidad](#Escalabilidad)
     - [Viabilidad económica](#Viabilidad-económica)
     - [Beneficios a la comunidad](#Beneficios-a-la-comunidad)
-  - [Fase 4: Resumen y conclusiones](#-Fase-4-Resumen-y-conclusiones)
+  - [Fase 4: Resúmen y conclusiones](#-Fase-4-Resúmen-y-conclusiones)
 
 
 <br>
@@ -154,12 +154,12 @@ SeguraMente está diseñado para ser escalable, con planes para adaptar el conte
 <br>
 <br>
 
-## 📂 **Fase 4: Resumen y conclusiones**
+## 📂 **Fase 4: Resúmen y conclusiones**
 
-- La violencia contra las mujeres en el Perú es un problema persistente con factores culturales(creencias, perjuicios) que instauran el ciclo de violencia, con mayor ponderacion en la región de la sierra y específicamente Apurímac. Dentro de la evolución de las tres fases de violencia Apurímac siempre iteraba sobre la media.
-- Los programas de respuesta para ayudar a la población vulnerable a salir de esa situación se debe enfocar en las etapas iniciales del ciclo de violencia es decir las alarmas se deben programar desde la violencia psicológica y no en sus etapas más tardías. En ese sentido, las mujeres vulneradas pueden evitar experiencias de violencia más extremas, "física y sexual". Asimismo, la asistencia evitaría alto costos económicos para resarcir dicha situación. Busquemos programas proactivos y no reactivos
-- La mayor indicencia recae en mujeres jóvenes de 15 - 19 años y menores de edad en el departamento de Apurímac, pues este grupo etario no asisten a denunciar por dos vertientes principales: la primera es la falta de confianza institucional y la segunda es el poco alcance que tienen las instituciones para ofertar sus servicios dentro de Apurímac. Cabe resaltar que este grupo etario por el rango de edad se encuentran fuera de alcanzar los servicios de asistencia de los programas del MIDIS, porque la atención es solo para mayores de edad esperan, la víctima se encuentra en situación de espera.
-- Los programas de asistencia no solo debe velar por la mujer sino tambien por los menores de edad, pues se evidencio que a pesar del fortalecimiento institucional no existio ningun quiebre dentro de la tendencia de vulneracion a los menores de edad que presenciaron el abuso fisico y sexual de la madre. 
+- La violencia contra las mujeres en el Perú es un problema persistente con factores culturales(creencias, perjuicios, etc) que instauran el ciclo de violencia, con mayor ponderación en la región de la sierra y específicamente Apurímac. Dentro de la evolución de las tres fases de violencia Apurímac siempre iteraba sobre la media.
+- Los programas de respuesta para ayudar a la población vulnerable a salir de esa situación se debe enfocar en las etapas iniciales del ciclo de violencia es decir las alarmas se deben programar desde la violencia psicológica y no en las etapas más tardías. En ese sentido, las mujeres vulneradas pueden evitar experiencias de violencia más extremas, "física y sexual". Asimismo, la asistencia evitaría altos costos económicos para resarcir dicha situación. Busquemos programas proactivos y no reactivos
+- La mayor incidencia recae en mujeres jóvenes de 15 a 19 años y menores de edad en el departamento de Apurímac, pues este grupo etario no asisten a denunciar por dos vertientes principales: la primera es la falta de confianza institucional y la segunda es el poco alcance que tienen las instituciones para ofertar sus servicios dentro de Apurímac. Cabe resaltar que este grupo etario por el rango de edad se encuentran fuera de poder alcanzar los servicios de asistencia de los programas del MIDIS, porque la atención es solo para mayores de edad, la víctima se encuentra en situación de espera.
+- Los programas de asistencia no solo deben velar por la mujer sino también por los menores de edad, pues se evidenció que a pesar del fortalecimiento institucional no existió ningún quiebre dentro de la tendencia de vulneración a los menores de edad que presenciaron el abuso físico y sexual de la madre. 
 
 Ante la creciente tendencia de la violencia psicológica en mujeres de 15 a 19 años proponemos:
 
