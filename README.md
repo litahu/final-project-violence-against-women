@@ -7,27 +7,28 @@
 <br>
 <br>
 
-**Tabla de Contenido**:
-- [Fase 1: Formulación del problema](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Fase-1:-Formulación-del-problema)
-         - [Antecedentes](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Antecedente)
-         - [Problema](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Problema)
-         - [Objetivo](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Objetivo)
-- [Fase 2: Análisis de datos](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Fase-2:-Análisis-de-datos)
-         - [Creciente tendencia de violencia a nivel nacional](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Creciente-tendencia-de-violencia-a-nivel-nacional)
-         - [Tipo de solicitud de ayuda](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Problema#Tipo-de-solicitud-de-ayuda)
-         - [Consecuencias de la confianza institucional](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Consecuencias-de-la-confianza-institucional)
-         - [Situación de los menores de edad](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Situación-de-los-menores-de-edad)
-- [Fase 3: Propuesta de valor](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Fase-3:-Propuesta-de-valor)
-         - [Contexto y justificación](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Contexto-y-justificación)
-         - [Detalles de la propuesta](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Detalles-de-la-propuesta)
-         - [Plan de la implementación](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Plan-del-la-implementación)
-         - [Retos y justificación tecnológica](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Retos-y-justificación-tecnológica)
-         - [Escalabilidad](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Escalabilidad)
-         - [Viabilidad económica](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Viabilidad-económica)
-         - [Beneficios a la comunidad](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Beneficios-a-la-comunidad)
-- [Fase 4: Resumen y conclusiones](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md##Fase-4:-Resumen-y-conclusiones)   
+**Tabla de Contenido**
+- [Fase 1: Formulación del problema](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#-Fase-1:-Formulación-del-problema)
+         - [Antecedentes](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#antecedente)
+         - [Problema](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#problema)
+         - [Objetivo](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#objetivo)
+- [Fase 2: Análisis de datos](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#-Fase-2:-Análisis-de-datos)
+         - [Creciente tendencia de violencia a nivel nacional](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#1-creciente-tendencia-de-violencia-a-nivel-nacional)
+         - [Tipo de solicitud de ayuda](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Problema#2-tipo-de-solicitud-de-ayuda)
+         - [Consecuencias de la confianza institucional](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#3-consecuencias-de-la-confianza-institucional)
+         - [Situación de los menores de edad](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#4-situación-de-los-menores-de-edad)
+- [Fase 3: Propuesta de valor](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#-Fase-3:-Propuesta-de-valor)
+         - [Contexto y justificación](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#contexto-y-justificación)
+         - [Detalles de la propuesta](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#detalles-de-la-propuesta)
+         - [Plan de la implementación](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#plan-del-la-implementación)
+         - [Retos y justificación tecnológica](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#retos-y-justificación-tecnológica)
+         - [Escalabilidad](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#escalabilidad)
+         - [Viabilidad económica](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#viabilidad-económica)
+         - [Beneficios a la comunidad](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#beneficios-a-la-comunidad)
+- [Fase 4: Resumen y conclusiones](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#-Fase-4:-Resumen-y-conclusiones)   
 <br>
 <br>
+
 ---
 
 
