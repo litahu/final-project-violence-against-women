@@ -1,10 +1,66 @@
-# 👩 Previniendo la violencia contra la Mujer, niñas y niños a nivel nacional del 2013-2018
+# 👩 Previniendo la violencia contra la Mujer, niñas y niños en el Perú entre el 2013 y 2018
+<br>
+
+**Herramienta** : Google Sheet <br>
+**Visualizacion** : Looker Studio <br>
+**Dataset** : INEI - ⚠️Violencia contra las mujeres, niños y niñas (capítulo XII de ENDES- “ Encuesta demográfica y de salud familiar” ) [2013](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-7), [2014](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-5), [2015](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-3), [2016](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-0), [2017](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud) y [2018](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-9)
+<br>
+<br>
+
+**Tabla de Contenido**:
+- [Fase 1: Formulación del problema](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#-Fase-1:-Formulación-del-problema)
+         [Antecedentes](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Antecedente)
+         [Problema](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Problema)
+         [Objetivo](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Objetivo)
+- [Fase 2: Análisis de datos](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#-Fase-2:-Análisis-de-datos)
+         [Creciente tendencia de violencia a nivel nacional](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Creciente-tendencia-de-violencia-a-nivel-nacional)
+         [Tipo de solicitud de ayuda](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Problema#Tipo-de-solicitud-de-ayuda)
+         [Consecuencias de la confianza institucional](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Consecuencias-de-la-confianza-institucional)
+         [Situación de los menores de edad](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Situación-de-los-menores-de-edad)
+- [Fase 3: Propuesta de valor](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#-Fase-3:-Propuesta-de-valor)
+         [Contexto y justificación](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Contexto-y-justificación)
+         [Detalles de la propuesta](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Detalles-de-la-propuesta)
+         [Plan de la implementación](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Plan-del-la-implementación)
+         [Retos y justificación tecnológica](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Retos-y-justificación-tecnológica)
+         [Escalabilidad](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Escalabilidad)
+         [Viabilidad económica](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Viabilidad-económica)
+         [Beneficios a la comunidad](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md#Beneficios-a-la-comunidad)
+- [Fase 4: Resumen y conclusiones](https://github.com/litahu/final-project-violence-against-women/edit/main/README.md##-Fase-4:-Resumen-y-conclusiones)
+      
+<br>
+<br>
+---
+
+
+## 📂 **Fase 1: Formulación del problema**
+    ###  **Antecedente**
+    ###  **Problema**
+    ###  **Objetivo**
+
+## 📂 **Fase 2: Análisis de datos**
+    ### 🌎 **Creciente tendencia de violencia a nivel nacional**
+    ### 🎗 **Tipo de solicitud de ayuda**
+    ### 👨‍✈️ **Consecuencias de la confianza institucional**
+    ### 👧 **Situación de los menores de edad**
+
+## 📂 **Fase 3: Propuesta de valor**
+    ###  **Contexto y justificación**
+    ###  **Detalles de la propuesta**
+    ###  **Plan de la implementación**
+    ###  **Retos y justificación tecnológica**
+    ###  **Escalabilidad**
+    ###  **Viabilidad económica**
+    ###  **Beneficios a la comunidad**
+
+## 📂 **Fase 4: Resumen y conclusiones**
+
+
 
 ### 📂 Revisión de datasets públicos
 
 ODS | Nombre del dataset | Herramienta | Descripción del proyecto
 ---|---|---|---
-Salud| ⚠️Violencia contra las mujeres, niños y niñas (capítulo XII de ENDES- “ Encuesta demográfica y de salud familiar” ) [2013](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-7), [2014](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-5), [2015](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-3), [2016](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-0), [2017](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud) y [2018](https://www.datosabiertos.gob.pe/dataset/violencia-contra-las-mujeres-ni%C3%B1os-y-ni%C3%B1as-capitulo-xii-encuesta-demogr%C3%A1fica-y-de-salud-9)| Google sheet y Looker Studio | Se procedió con la limpieza de datos en Google Sheet(siguiendo las buenas prácticas de ETL). Luego se canalizó los datos para manejar dentro del tablero de control de Looker Studio. 
+Salud| | Google sheet y Looker Studio | Se procedió con la limpieza de datos en Google Sheet(siguiendo las buenas prácticas de ETL). Luego se canalizó los datos para manejar dentro del tablero de control de Looker Studio. 
 
 <br>
 
