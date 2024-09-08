@@ -92,47 +92,37 @@ El juego utiliza principios de psicología educativa para cambiar actitudes y co
 <li>
 Investigación y Planificación Inicial:</li>
 ○	Definición del Problema y Objetivos del Juego: Clarificar necesidades y objetivos educativos.
-
 ○	Investigación de Usuarios: Encuestas y entrevistas para entender necesidades.
-
-
 ○	Análisis de Competencia y Requisitos Legales: Estudiar soluciones similares y asegurar cumplimiento con normativas.
 
 <li>
 Diseño del Juego:</li>
 ○	Concepto y Diseño de Niveles: Crear escenarios educativos sobre violencia.
-
 ○	Roles y Mecánicas del Juego: Establecer roles, mecánicas y niveles.
-
-
 ○	Diseño de UI y Arte: Crear una interfaz intuitiva y atractiva.
 
 <li>
 Desarrollo del Juego:</li>
 ○	Prototipo y Desarrollo: Crear prototipo, desarrollar front-end y back-end.
-
 ○	Integración de IA (Opcional): Personalizar experiencia del jugador.
-
 ○	Testing: Realizar pruebas para asegurar funcionalidad y adecuación.
 
  <li>
 Contenido Educativo y Narrativo:</li>
 ○	Creación de Escenarios y Tutoriales: Desarrollar material educativo.
- ○	Revisión por Expertos: Validar contenido con psicólogos y educadores.
+○	Revisión por Expertos: Validar contenido con psicólogos y educadores.
 
 <li>
 Marketing y Estrategia de Lanzamiento:</li>
 ○	Plan de Marketing y Alianzas Estratégicas: Definir estrategias y formar alianzas con entidades como el Ministerio de la Mujer, Ministerio de Educación, MIDIS y operadores de telefonía.
- ○	Campañas de Lanzamiento y Gestión de la Comunidad: Promocionar el juego y gestionar la interacción con usuarios.
+○	Campañas de Lanzamiento y Gestión de la Comunidad: Promocionar el juego y gestionar la interacción con usuarios.
 
 <li>
 Evaluación y Expansión:</li>
 ○	Fase 1: Implementación en Zonas Urbanas y Periurbanas
-
   i.	Comenzar con áreas con mayor acceso a internet para asegurar la aceptación y funcionamiento del juego.
 
 ○	Fase 2: Adaptación para Zonas Rurales
-  
   i.	Implementar versiones del juego optimizadas para dispositivos básicos y con opciones offline, para llegar a zonas con acceso limitado a internet.
 
   ii.	Medición del Impacto y Recogida de Feedback: Evaluar efectividad y realizar mejoras.
