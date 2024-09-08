@@ -58,9 +58,9 @@ Inicialmente se abordo un Analisis exploratorio de los datos que nos ayuden a id
 De acuerdo a los datos detallados en el [Reporte de los efectos de la violencia familiar del 2013 - 2018 ](https://lookerstudio.google.com/reporting/6db874ae-cf89-41d5-b82b-6e1d2ef2ec02) determinamos los siguientes hallazgos:
 
 ###  **Creciente tendencia de violencia a nivel nacional**
-
-&nbsp 👨‍👨‍👦‍👦 En la parte inicial del ciclo de violencia, Apurímac es el departamento que ha sostenido la violencia psicológica sobre la media durante 3 años consecutivos(2013-2015). Luego tiene una ligera caída con un rebote marcado que se tiende en ascenso. La posible causa a esta resistencia sobre la media es el factor cultural de subordinación institucionalizada(creencias, costumbres y perjuicios).
-
+```
+👨‍👨‍👦‍👦 En la parte inicial del ciclo de violencia, Apurímac es el departamento que ha sostenido la violencia psicológica sobre la media durante 3 años consecutivos(2013-2015). Luego tiene una ligera caída con un rebote marcado que se tiende en ascenso. La posible causa a esta resistencia sobre la media es el factor cultural de subordinación institucionalizada(creencias, costumbres y perjuicios).
+```
 <li>
  💪 Apurímac presenta 4 años(2014-2017) persistentes de violencia física siendo el 2015 el más extremo.
 </li>
@@ -83,11 +83,11 @@ De acuerdo a los datos detallados en el [Reporte de los efectos de la violencia 
 </li>
 
 ###  **Situación de los menores de edad**
-<ol> 
+ 
 <li>
 👩 El 44,8% de las mujeres de 15-19 años señala que no es necesario hacer la denuncia, el 16,2% señala que ella tenía la culpa y un 11,4% señala que no lo hace para no causar problemas a su agresor(en estos items se evidencia el poder y control que tiene el agresor sobre estas feminas). Sumado a ello se agrava por la falta de información institucional por lo que un 7,5% señala que no sabe donde ir/ no conoce los servicios para las mujeres violentadas entreo otros.
 </li>
-</ol>
+
 
 ## 📂 **Fase 3: Propuesta de valor**
 ###  **Contexto y justificación**
