@@ -120,12 +120,12 @@ Marketing y Estrategia de Lanzamiento:</li>
 <li>
 Evaluación y Expansión:</li>
 ○	Fase 1: Implementación en Zonas Urbanas y Periurbanas
-i.	Comenzar con áreas con mayor acceso a internet para asegurar la aceptación y funcionamiento del juego.
+ i.	Comenzar con áreas con mayor acceso a internet para asegurar la aceptación y funcionamiento del juego.
 
 ○	Fase 2: Adaptación para Zonas Rurales
-i.	Implementar versiones del juego optimizadas para dispositivos básicos y con opciones offline, para llegar a zonas con acceso limitado a internet.
-ii.	Medición del Impacto y Recogida de Feedback: Evaluar efectividad y realizar mejoras.
-iii.	Estrategias de Escalabilidad y Soluciones Offline: Implementar estrategias de expansión y ofrecer soluciones para zonas con acceso limitado a internet.
+ i.	Implementar versiones del juego optimizadas para dispositivos básicos y con opciones offline, para llegar a zonas con acceso limitado a internet.
+ ii.	Medición del Impacto y Recogida de Feedback: Evaluar efectividad y realizar mejoras.
+ iii.	Estrategias de Escalabilidad y Soluciones Offline: Implementar estrategias de expansión y ofrecer soluciones para zonas con acceso limitado a internet.
 
 </ol>
 
@@ -139,7 +139,7 @@ SeguraMente está diseñado para ser escalable, con planes para adaptar el conte
 
 ###  **Viabilidad económica**
 
-###### Papel de los Socios Estratégicos:
+**Papel de los Socios Estratégicos:**
 - Ministerio de la Mujer: Proporcionará apoyo institucional y validará el contenido educativo. Facilitaremos la integración del juego en programas de prevención y apoyo a las víctimas.
 - Ministerio de Educación: Incluirá SeguraMente en el currículo educativo y ayudará en la capacitación de educadores para su uso en aulas y actividades extracurriculares.
 - MIDIS (Ministerio de Desarrollo e Inclusión Social): Apoyará en la implementación en zonas rurales y proporcionará recursos para asegurar que el juego llegue a comunidades de difícil acceso.
