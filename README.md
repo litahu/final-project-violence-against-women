@@ -25,8 +25,7 @@
          - [Escalabilidad](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Escalabilidad)
          - [Viabilidad económica](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Viabilidad-económica)
          - [Beneficios a la comunidad](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md#Beneficios-a-la-comunidad)
-- [Fase 4: Resumen y conclusiones](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md##-Fase-4:-Resumen-y-conclusiones)
-      
+- [Fase 4: Resumen y conclusiones](https://github.com/litahu/final-project-violence-against-women/blob/main/README.md##-Fase-4:-Resumen-y-conclusiones)   
 <br>
 <br>
 ---
