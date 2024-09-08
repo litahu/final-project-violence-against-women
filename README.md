@@ -40,7 +40,7 @@ La falta de un plan estrátegico nacional para prevenir la violencia contra la m
 >###  **Problema**
 >¿Cuál es el departamento con más casos de violencia sobre la población vulnerable, cuál es la tendencia y el grupo etario más afectado entre el 2013 y 2018?
 >###  **Objetivo**
->- Identificar el departamento con mas incidencia de violencia y detallar su tendencia dentro del ciclo de violencia
+>- Identificar el departamento con más incidencia de violencia y detallar su tendencia dentro del ciclo de violencia
 >- Comprender la causa principal del ascenso de la violencia
 >- Identificar el grupo etario más vulnerado
 >- Analizar la situación de los menores de edad
