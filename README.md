@@ -33,7 +33,7 @@
 
 ## 📂 **Fase 1: Formulación del problema**
 ###  **Antecedente**
-La falta de un plan estrátegico nacional para prevenir la violencia contra la mujer,niños y niñas ha provocado una ola creciente de violencia familiar. Esto  en el corto plazo sobrelleva a la mujer violentada a transmitir altos resultados negativos para sus hijos y su entorno,y en el largo plazo, un alto costo para el desarrollo sostenible del país. Por ello, es vital abordar este tema para construir puentes preventivos de largo plazo. En ese sentido nos hemos enfocado en comprender esta creciente problemática. 
+La falta de un plan estrátegico nacional para prevenir la violencia contra la mujer,niños y niñas ha provocado una ola creciente de violencia familiar. Esto  en el corto plazo sobrelleva a la mujer violentada a transmitir altos resultados negativos para sus hijos y su entorno,y en el largo plazo, un alto costo para el desarrollo sostenible del país. Por ello, es vital abordar este tema para construir puentes preventivos de bienestar y salud. En ese sentido nos hemos enfocado en comprender esta creciente problemática. 
 Inicialmente se abordo un Análisis exploratorio de los datos que nos ayuden a identificar variables, tendencias y métricas para entender como incide la violencia contra la mujer en el Perú.
 
 >###  **Grupo de estudio:**
