@@ -91,9 +91,9 @@ El juego utiliza principios de psicología educativa para cambiar actitudes y co
 <ol>
 <li>
 Investigación y Planificación Inicial:</li>
-○	Definición del Problema y Objetivos del Juego: Clarificar necesidades y objetivos educativos.
-○	Investigación de Usuarios: Encuestas y entrevistas para entender necesidades.
-○	Análisis de Competencia y Requisitos Legales: Estudiar soluciones similares y asegurar cumplimiento con normativas.
+  ○	Definición del Problema y Objetivos del Juego: Clarificar necesidades y objetivos educativos.
+  ○	Investigación de Usuarios: Encuestas y entrevistas para entender necesidades.
+  ○	Análisis de Competencia y Requisitos Legales: Estudiar soluciones similares y asegurar cumplimiento con normativas.
 
 <li>
 Diseño del Juego:</li>
