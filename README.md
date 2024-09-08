@@ -33,8 +33,7 @@
 
 ## 📂 **Fase 1: Formulación del problema**
 ###  **Antecedente**
-La falta de un plan estrátegico nacional para prevenir la violencia contra la mujer,niños y niñas ha provocado una ola creciente de violencia familiar. Esto  en el corto plazo sobrelleva a la mujer violentada a transmitir altos resultados negativos para sus hijos y su entorno,y en el largo plazo, un alto costo para el desarrollo sostenible del país. Por ello, es vital abordar este tema para construir puentes preventivos de bienestar y salud. En ese sentido nos hemos enfocado en comprender esta creciente problemática. 
-Inicialmente se abordo un Análisis exploratorio de los datos que nos ayuden a identificar variables, tendencias y métricas para entender como incide la violencia contra la mujer en el Perú.
+La falta de un plan estrátegico nacional para prevenir la violencia contra la mujer,niños y niñas ha provocado una ola creciente de violencia familiar. Esto  en el corto plazo sobrelleva a la mujer violentada a transmitir altos resultados negativos para sus hijos y su entorno ,y en el largo plazo, un alto costo para el desarrollo sostenible del país. Por ello, es vital abordar este tema para construir puentes preventivos de bienestar y salud. En ese sentido nos hemos enfocado en comprender esta creciente problemática. 
 
 >###  **Grupo de estudio:**
 >Mujeres del Perú de 15 a 45 años, en toda su diversidad(mujeres indígenas, mujeres afrodescendientes, mujeres en situación de discapacidad, mujeres lesbianas, trans, migrantes, así como todas aquellas en situación de especial vulnerabilidad) y sus menores hijos.
@@ -49,7 +48,7 @@ Inicialmente se abordo un Análisis exploratorio de los datos que nos ayuden a i
 <br>
 
 ## 📂 **Fase 2: Análisis de datos**
-De acuerdo a los datos detallados en el [Reporte de los efectos de la violencia familiar del 2013 - 2018 ](https://lookerstudio.google.com/reporting/6db874ae-cf89-41d5-b82b-6e1d2ef2ec02) determinamos los siguientes hallazgos:
+Inicialmente se abordo un Análisis exploratorio de los datos que nos ayuden a identificar variables, tendencias y métricas para entender como incide la violencia contra la mujer en el Perú. De acuerdo al [reporte de los datos](https://lookerstudio.google.com/reporting/6db874ae-cf89-41d5-b82b-6e1d2ef2ec02) determinamos los siguientes hallazgos:
 
 ###  **Creciente tendencia de violencia a nivel nacional**
 En la parte inicial del ciclo de violencia, Apurímac es el departamento que ha sostenido la violencia psicológica sobre la media durante 3 años consecutivos(2013-2015). Luego tiene una ligera caída con un rebote marcado que se tiende en ascenso. La posible causa a esta resistencia sobre la media es el factor cultural de subordinación institucionalizada(creencias, costumbres y perjuicios).
