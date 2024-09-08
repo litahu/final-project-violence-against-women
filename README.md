@@ -90,42 +90,42 @@ El juego utiliza principios de psicología educativa para cambiar actitudes y co
 ###  **Plan de la implementación**
 <ol>
 <li>
-Investigación y Planificación Inicial:</li><br>
+Investigación y Planificación Inicial:</li>
   ○	Definición del Problema y Objetivos del Juego: Clarificar necesidades y objetivos educativos.<br>
   ○	Investigación de Usuarios: Encuestas y entrevistas para entender necesidades.<br>
   ○	Análisis de Competencia y Requisitos Legales: Estudiar soluciones similares y asegurar cumplimiento con normativas.<br>
-
+<br>
 <li>
 Diseño del Juego:</li>
   ○	Concepto y Diseño de Niveles: Crear escenarios educativos sobre violencia.<br>
-  ○	Roles y Mecánicas del Juego: Establecer roles, mecánicas y niveles.
-  ○	Diseño de UI y Arte: Crear una interfaz intuitiva y atractiva.
-
+  ○	Roles y Mecánicas del Juego: Establecer roles, mecánicas y niveles.<br>
+  ○	Diseño de UI y Arte: Crear una interfaz intuitiva y atractiva.<br>
+<br>
 <li>
 Desarrollo del Juego:</li>
-  ○	Prototipo y Desarrollo: Crear prototipo, desarrollar front-end y back-end.
-  ○	Integración de IA (Opcional): Personalizar experiencia del jugador.
-  ○	Testing: Realizar pruebas para asegurar funcionalidad y adecuación.
-
+  ○	Prototipo y Desarrollo: Crear prototipo, desarrollar front-end y back-end.<br>
+  ○	Integración de IA (Opcional): Personalizar experiencia del jugador.<br>
+  ○	Testing: Realizar pruebas para asegurar funcionalidad y adecuación.<br>
+<br>
  <li>
 Contenido Educativo y Narrativo:</li>
-  ○	Creación de Escenarios y Tutoriales: Desarrollar material educativo.
-  ○	Revisión por Expertos: Validar contenido con psicólogos y educadores.
-
+  ○	Creación de Escenarios y Tutoriales: Desarrollar material educativo.<br>
+  ○	Revisión por Expertos: Validar contenido con psicólogos y educadores.<br>
+<br>
 <li>
 Marketing y Estrategia de Lanzamiento:</li>
-  ○	Plan de Marketing y Alianzas Estratégicas: Definir estrategias y formar alianzas con entidades como el Ministerio de la Mujer, Ministerio de Educación, MIDIS y operadores de telefonía.
-  ○	Campañas de Lanzamiento y Gestión de la Comunidad: Promocionar el juego y gestionar la interacción con usuarios.
+  ○	Plan de Marketing y Alianzas Estratégicas: Definir estrategias y formar alianzas con entidades como el Ministerio de la Mujer, Ministerio de Educación, MIDIS y operadores de telefonía.<br>
+  ○	Campañas de Lanzamiento y Gestión de la Comunidad: Promocionar el juego y gestionar la interacción con usuarios.<br>
 
 <li>
 Evaluación y Expansión:</li>
-  ○	Fase 1: Implementación en Zonas Urbanas y Periurbanas
-    i.	Comenzar con áreas con mayor acceso a internet para asegurar la aceptación y funcionamiento del juego.
+  ○	Fase 1: Implementación en Zonas Urbanas y Periurbanas<br>
+        i.	Comenzar con áreas con mayor acceso a internet para asegurar la aceptación y funcionamiento del juego.<br>
 
-  ○	Fase 2: Adaptación para Zonas Rurales
-    i.	Implementar versiones del juego optimizadas para dispositivos básicos y con opciones offline, para llegar a zonas con acceso limitado a internet.
-    ii.	Medición del Impacto y Recogida de Feedback: Evaluar efectividad y realizar mejoras.
-    iii.	Estrategias de Escalabilidad y Soluciones Offline: Implementar estrategias de expansión y ofrecer soluciones para zonas con acceso limitado a internet.
+  ○	Fase 2: Adaptación para Zonas Rurales<br>
+        i.	Implementar versiones del juego optimizadas para dispositivos básicos y con opciones offline, para llegar a zonas con acceso limitado a internet.<br>
+        ii.	Medición del Impacto y Recogida de Feedback: Evaluar efectividad y realizar mejoras.<br>
+        iii.	Estrategias de Escalabilidad y Soluciones Offline: Implementar estrategias de expansión y ofrecer soluciones para zonas con acceso limitado a internet.<br>
 
 </ol>
 
