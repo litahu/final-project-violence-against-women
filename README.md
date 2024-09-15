@@ -1,4 +1,4 @@
-# 👩 Previniendo la violencia contra la Mujer, niños y niñas en el Perú entre el 2013 y 2018
+# 👩 SeguraMente hace frente a la violencia contra la Mujer, niños y niñas en el Perú entre el 2013 y 2018
 <br>
 
 **Herramienta** : Google Sheet <br>
@@ -50,19 +50,18 @@ La falta de un plan estrátegico nacional para prevenir la violencia contra la m
 ## 📂 **Fase 2: Análisis de datos**
 Inicialmente se abordo un Análisis exploratorio de los datos que nos ayuden a identificar variables, tendencias y métricas para entender como incide la violencia contra la mujer en el Perú. De acuerdo al [reporte de los datos](https://lookerstudio.google.com/reporting/6db874ae-cf89-41d5-b82b-6e1d2ef2ec02) determinamos los siguientes hallazgos:
 
-###  **Creciente tendencia de violencia a nivel nacional**
-Apurímac es el departamento que ha tenido mayor resistencia sobre la media para las tres fases del ciclo de violencia. Siendo el psicológico el que detalla una clara tendencia de ascenso sobre la media de un 81.43%. Mientras que para la violencia física presentó una persistencia de ascenso durante 4 años(2014-2017) siendo el 2015 el más extremo. Finalmente, para la violencia sexual pivotea con una variación de ± 5pp sobre la media de 17,25%. Al analizar la encuesta las víctimas detallaron que sus familiares los criaron en un ambiene de violencia, es decir que en Apurímac existe una cultura de subordinación muy institucionalizada (creencias, costumbres y perjuicios)
-
-###  **Tipo de solicitud de ayuda**
-Esa resistencia sobre la media tuvo un fuerte ascenso durante 2013, 2014 y 2015 ya que las mujeres vulneradas solicitaban ayuda a personas "no especializada", más del 50% de estas mujeres en los años 2013, 2014 y 2015 recurrían a sus padres, vecinos, amigos,hermanos, etc. Sin embargo para los años 2016 y 2017 por más que existió un fortalecimiento institucional(los programas del MIDIS) solo se percibió un quiebre en el año 2016, alcanzando un descenso de 75.6% en el psicológico, 45,8% en el físico y 16.13% para el sexual. Cabe resaltar que el efecto de ese quiebre solo se percibió sobre la tendencia de la violencia contra la mujer más no sobre la violencia contra los menores de edad, se encontró en 45% sobre la media.
-No obstante, a partir del 2017 existe un efecto rebote para el año 2018 con una clara creciente tendencia de la violencia psicológica
-
-###  **Consecuencias de la confianza institucional**
-Además la confianza institucional percibida por las mujeres aún es menor del 50%. En efecto las "mujeres entre 15 a 19 años" no asisten a denunciar la violencia. Ello se respalda por las razones que argumentan las mujeres para no realizar dicha denuncia. El 44,8% de estas mujeres señala que no es necesario hacer la denuncia, el 16,2% indican que ellas tenía la culpa y un 11,4% señala que no lo hace para no causar problemas a su agresor(en estos items se evidencia el poder y control que tiene el agresor sobre estas feminas), mas aún la situación se agrava por la falta de información institucional por lo que un 7,5% señala que no sabe donde ir/ no conoce los servicios para las mujeres violentadas entre otros. Al respecto, existe 2 notorias posturas la primera es la falta de confianza institucional y la segunda es el poco alcance que tienen las instituciones para ofertar sus servicios.
-
- 
-###  **Situación de los menores de edad**
-En la encuesta del ENDES señala que los menores de edad presenciaron actos de violencia física y sexual sobre su madre tiene una tendencia ascendente desde el 2015, llegando a 44% para el 2018, un valor sobre la media. Cabe resaltar que para llegar a esos grados de violencia no solamente se efectaron durante los años señalados por dicha encuesta si no que se vienen arrastrando de años antecesores(en un intervalo no mayor a 10 años), en el largo plazo estos niños van a tender a repetir esos patrones.
+>###  **Creciente tendencia de violencia a nivel nacional**
+>Apurímac es el departamento que ha tenido mayor resistencia sobre la media para las tres fases del ciclo de violencia. Siendo el psicológico el que detalla una clara tendencia de ascenso >sobre la media de un 81.43%. Mientras que para la violencia física presentó una persistencia de ascenso durante 4 años(2014-2017) siendo el 2015 el más extremo. Finalmente, para la violencia >sexual pivotea con una variación de ± 5pp sobre la media de 17,25%. Al analizar la encuesta las víctimas detallaron que sus familiares los criaron en un ambiene de violencia, es decir que en >Apurímac existe una cultura de subordinación muy institucionalizada (creencias, costumbres y perjuicios)
+>
+>###  **Tipo de solicitud de ayuda**
+>Esa resistencia sobre la media tuvo un fuerte ascenso durante 2013, 2014 y 2015 ya que las mujeres vulneradas solicitaban ayuda a personas "no especializada", más del 50% de estas mujeres en >los años 2013, 2014 y 2015 recurrían a sus padres, vecinos, amigos,hermanos, etc. Sin embargo para los años 2016 y 2017 por más que existió un fortalecimiento institucional(los programas del >MIDIS) solo se percibió un quiebre en el año 2016, alcanzando un descenso de 75.6% en el psicológico, 45,8% en el físico y 16.13% para el sexual. Cabe resaltar que el efecto de ese quiebre >solo se percibió sobre la tendencia de la violencia contra la mujer más no sobre la violencia contra los menores de edad, se encontró en 45% sobre la media.
+>No obstante, a partir del 2017 existe un efecto rebote para el año 2018 con una clara creciente tendencia de la violencia psicológica
+>
+>###  **Consecuencias de la confianza institucional**
+>Además la confianza institucional percibida por las mujeres aún es menor del 50%. En efecto las "mujeres entre 15 a 19 años" no asisten a denunciar la violencia. Ello se respalda por las >razones que argumentan las mujeres para no realizar dicha denuncia. El 44,8% de estas mujeres señala que no es necesario hacer la denuncia, el 16,2% indican que ellas tenía la culpa y un >11,4% señala que no lo hace para no causar problemas a su agresor(en estos items se evidencia el poder y control que tiene el agresor sobre estas feminas), mas aún la situación se agrava por >la falta de información institucional por lo que un 7,5% señala que no sabe donde ir/ no conoce los servicios para las mujeres violentadas entre otros. Al respecto, existe 2 notorias >posturas la primera es la falta de confianza institucional y la segunda es el poco alcance que tienen las instituciones para ofertar sus servicios.
+>
+>###  **Situación de los menores de edad**
+>En la encuesta del ENDES señala que los menores de edad presenciaron actos de violencia física y sexual sobre su madre tiene una tendencia ascendente desde el 2015, llegando a 44% para el >2018, un valor sobre la media. Cabe resaltar que para llegar a esos grados de violencia no solamente se efectaron durante los años señalados por dicha encuesta si no que se vienen >arrastrando de años antecesores(en un intervalo no mayor a 10 años), en el largo plazo estos niños van a tender a repetir esos patrones.
 
 <br>
 <br>
@@ -168,7 +167,8 @@ Ante la creciente tendencia de la violencia psicológica en mujeres de 15 a 19 a
 
 **Limitaciones**
 - Las variables de las dataset se manejan a nivel departamental, por lo que se dificultó hallar la provincia con mas afectación dentro de Apurímac. A pesar se ello, se exploró la base de datos de SIDOPOL pero sólo tenía registros de denuncias de las provincias de Abancay y Andahuaylas(a diferencia de sus otras provincias), la ausecia de datos para sus otras provincias restringio su uso
-- Las diferentes instituciones que velan por este tipo de problemática toman distintas variables para registrar los datos. Ejm: SIDOPOL engloba la "violencia fisica y verbal" y el INEI los detalla por separado "violencia física" y "violencia psicológica" 
+- Las diferentes instituciones que velan por este tipo de problemática toman distintas variables para registrar los datos. Ejm: SIDOPOL engloba la "violencia fisica y verbal" y el INEI los detalla por separado "violencia física" y "violencia psicológica"
+- Cabe resaltar que los datos solo se preservan hasta el año 2018. Por el transfondo de esta problemática se debe continuar actualizandolo
 
  
 
