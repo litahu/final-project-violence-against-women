@@ -166,6 +166,7 @@ Ante la creciente tendencia de la violencia psicológica en mujeres de 15 a 19 a
 **SeguraMente** busca llenar esta brecha ofreciendo una herramienta preventiva que actúa en las primeras etapas del ciclo de violencia, enfocándose en la educación y la formación de actitudes positivas desde una edad temprana.
 
 
+
 **Limitaciones de los datos**
 - Las variables de las dataset se manejan a nivel departamental, por lo que se dificultó hallar la provincia con mas afectación dentro de Apurímac. A pesar de ello, se exploró la base de datos de SIDOPOL pero sólo tenía registros de denuncias de las provincias de Abancay y Andahuaylas(a diferencia de sus otras provincias), la ausecia de datos para sus otras provincias restringio su uso
 - Las diferentes instituciones que velan por este tipo de problemática toman distintas variables para registrar los datos. Ejm: SIDOPOL engloba la "violencia fisica y verbal" y el INEI los detalla por separado "violencia física" y "violencia psicológica"
