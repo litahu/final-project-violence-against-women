@@ -165,7 +165,7 @@ Ante la creciente tendencia de la violencia psicológica en mujeres de 15 a 19 a
 **SeguraMente** es una solución innovadora y educativa para prevenir la violencia. Su enfoque proactivo y adaptable, junto con la colaboración con socios estratégicos y la integración de tecnología accesible, la convierte en una herramienta eficaz para romper el ciclo de violencia y fomentar una cultura de respeto y empatía.
 **SeguraMente** busca llenar esta brecha ofreciendo una herramienta preventiva que actúa en las primeras etapas del ciclo de violencia, enfocándose en la educación y la formación de actitudes positivas desde una edad temprana.
 
-
+<br>
 
 **Limitaciones de los datos**
 - Las variables de las dataset se manejan a nivel departamental, por lo que se dificultó hallar la provincia con mas afectación dentro de Apurímac. A pesar de ello, se exploró la base de datos de SIDOPOL pero sólo tenía registros de denuncias de las provincias de Abancay y Andahuaylas(a diferencia de sus otras provincias), la ausecia de datos para sus otras provincias restringio su uso
